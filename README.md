@@ -1,3 +1,21 @@
-RNN projects implementations: Project 1: predict stock price time series in future Project 2: generate text based on training text
+# Recursive Neural Networks Applications
 
-CNN application to recognize dog breed from an image. Used transfer learning from ResNet trained coefficients. Accuracy on test set ~85%. Prior to that buit and trained few CNN model from scratch to recognice dog breeds, and distinguish dogs from humans when image was partially covered. Images of dogs and people used to test the recognizer.
+## Predict stock price in the future using time series
+
+* Prepared training data from time series.
+* Built and trained a simple RNN using LSTM cells.
+
+## Generated English text
+
+* Prepared a training text from Sherlock Holmes book by C. Doyle.
+* Build and trained RNN model using LSTM cells.
+* Generated English text using the trained model and random phrase as an input.
+* Trained different sizes of the training data set, and observed the predicted text differnces between the two models.
+
+# Contributions
+
+This was a learning project not a development. 
+
+# License
+
+This was part of Udacity course, act accordingly. 
