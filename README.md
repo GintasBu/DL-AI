@@ -18,4 +18,4 @@ This was a learning project, not a development.
 
 # License
 
-This was a part of Coursera course, act accordingly. Reminding: plagiarism not recommended. But look and learn if find it useful. 
+This was a part of Artificial Intelligence course, act accordingly. Reminding: plagiarism not recommended. But look and learn if find it useful. 
